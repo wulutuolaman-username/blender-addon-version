@@ -3,4 +3,8 @@
     "folder": "import-xiaoer",
     "latest": "1.2.1"
   }
+  "插件管理器": {
+    "folder": "addon_manager",
+    "latest": "1.0.0"
+  }  
 }
