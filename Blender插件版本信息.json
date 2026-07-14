@@ -7,4 +7,8 @@
     "folder": "addon_manager",
     "latest": "1.0.0"
   }  
+  "模块安装器": {
+    "folder": "module_manager",
+    "latest": "1.0.0"
+  }    
 }
